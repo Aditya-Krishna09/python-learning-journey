@@ -2,6 +2,6 @@
 
 a = float(input("Give me the number : "))
 
-c = a * a
+c = a**2
 
 print(c)

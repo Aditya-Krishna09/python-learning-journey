@@ -3,6 +3,4 @@
 a = float(input("First Number : "))
 b = float(input("Second Number : "))
 
-c =  (a + b) / 2
-
-print("The Average is : ", c)
+print("The Average is : ", (a + b) / 2)
